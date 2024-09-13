@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Denis02230
+- 👀 I’m interested in game development, with experience in Python, C, and C++.
+- 🌱 I’m currently learning C at university and will be focusing on C++ soon.
+- 📫 How to reach me: Just hit me up on GitHub!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m a big fan of board games.
